@@ -5,6 +5,7 @@ This is a project that generates images using the Stable Diffusion API and mints
 ## Technologies Used
 
 - React
+- Hugging Face API (Stable Diffusion 2 Model)
 - NFT.Storage
 - ethers.js
 - axios
