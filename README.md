@@ -54,7 +54,7 @@ The project structure is as follows:
    
 <img width="1440" alt="Screenshot 2023-06-29 at 11 00 26 PM" src="https://github.com/samarthgh/AI_NFT_GENERATOR/assets/94733648/1238ad78-15fb-45fa-9dae-60c9f7599e0a">
 
-3. Metamask ask the user to approve the transaction.
+3. Metamask prompts the user to approve the transaction.
    
 <img width="1440" alt="Screenshot 2023-06-29 at 11 00 42 PM" src="https://github.com/samarthgh/AI_NFT_GENERATOR/assets/94733648/dbde565e-9bad-4e4e-b284-addb440cca2b">
 
